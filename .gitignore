@@ -1,0 +1,18 @@
+# Ignore Excel temporary and backup files
+~*.*
+*.tmp
+*.bak
+
+# Ignore OS-specific files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore large raw CSVs (if you ever export real bank data)
+*.csv
+
+# Keep your .gitignore file itself, but ignore any .env files if used
+.env
