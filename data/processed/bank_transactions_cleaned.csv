@@ -1,0 +1,14 @@
+Date,Description,Category,Amount,Month
+2025-01-06,Supermarket,Groceries,-120.5,2025-01
+2025-02-06,Coffee Shop,Dining,-5.75,2025-02
+2025-03-06,Salary,Salary,3000.0,2025-03
+2025-04-06,Electric Bill,Utilities,-85.2,2025-04
+2025-05-06,Gym Membership,Health,-45.0,2025-05
+2025-01-07,Rent,Rent,-950.0,2025-01
+2025-02-07,Internet Bill,Utilities,-79.99,2025-02
+2025-03-07,Fuel Station,Fuel,-40.0,2025-03
+2025-01-08,Gift Purchase,Gift,-50.0,2025-01
+,Groceries,Groceries,-132.25,NaT
+2025-02-08,Restaurant,Dining,-60.0,2025-02
+2025-03-08,Salary,Salary,3200.0,2025-03
+2025-04-08,Utilities,Utilities,-180.6,2025-04

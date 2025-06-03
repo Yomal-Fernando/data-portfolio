@@ -12,7 +12,11 @@ desktop.ini
 .vscode/
 
 # Ignore large raw CSVs (if you ever export real bank data)
-*.csv
+#*.csv
 
 # Keep your .gitignore file itself, but ignore any .env files if used
 .env
+
+# Ignore all CSVs except our cleaned data
+*.csv
+!data/processed/bank_transactions_cleaned.csv
